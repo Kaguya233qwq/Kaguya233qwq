@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-### What languages I am using?
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguya233qwq)](https://github.com/Cvandia/github-readme-stats)
-
 ### Profile Visits from 2023/6/13 | I love miku
 
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
