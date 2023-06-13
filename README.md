@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/magical_mirai_10th.png?raw=true" width="425">
+<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/about_miku.png?raw=true" width="500">
 
 ### Hi there 👋
 My name is Kaguya/姬辉夜~
