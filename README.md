@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/about_miku.png?raw=true" width="450">
 
-<h2><img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/02.gif?raw=true" width="100"> Hi ~ My name is Kaguya/姬辉夜~ </h2>
+<h2><img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/02.gif?raw=true" width="100"> Hi~I'm Kaguya~ </h2>
 
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m currently working on [Nonebot2](https://v2.nonebot.dev/) <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/04.gif?raw=true" width="100">
+- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m currently working on [Nonebot2](https://v2.nonebot.dev/) <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/04.gif?raw=true" width="70">
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m currently learning PHP，C
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m looking to collaborate on ```nb2 plugins```
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m looking for help with```pythonic```
