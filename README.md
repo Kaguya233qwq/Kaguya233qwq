@@ -27,10 +27,6 @@ My name is Kaguya/姬辉夜~
 
 ---
 
-### How is my projects?
-
-![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
-
 ### What languages I am using?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguya233qwq)](https://github.com/Cvandia/github-readme-stats)
@@ -38,3 +34,7 @@ My name is Kaguya/姬辉夜~
 ### Profile Visits from 2023/6/13 | I love miku
 
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
+
+### How is my projects?
+
+![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
