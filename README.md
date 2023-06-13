@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img align='right' src="https://raw.githubusercontent.com/ElainaFanBoy/Blog/main/assert/avt.png" width="415">
+
 ### Hi there 👋
 My name is Kaguya/姬辉夜~
 
@@ -22,8 +24,6 @@ My name is Kaguya/姬辉夜~
 - 🤔 I’m looking for help with```pythonic```
 - 📫 How to reach me: 1435608435@qq.com
 - ⚡ Fun fact: ```Hahahahahahahaha geh~```
-
-<img align='right' src="https://raw.githubusercontent.com/ElainaFanBoy/Blog/main/assert/avt.png" width="415">
 
 ---
 
