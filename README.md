@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/02.gif?raw=true" width="80">  <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/about_miku.png?raw=true" width="450"> Hi~I'm Kaguya~ </h2>
+<h2><img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/02.gif?raw=true" width="80">  <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/about_miku.png?raw=true" width="420"> Hi~I'm Kaguya~ </h2>
 
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m currently working on [Nonebot2](https://v2.nonebot.dev/) <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/04.gif?raw=true" width="50">
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m currently learning PHP，C <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/03.gif?raw=true" width="60">
