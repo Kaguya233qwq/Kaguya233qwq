@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 My name is Kaguya/姬辉夜~
-🔭 I’m currently working on [Nonebot2](https://v2.nonebot.dev/)
+
+- 🔭 I’m currently working on [Nonebot2](https://v2.nonebot.dev/)
 - 🌱 I’m currently learning PHP，C
 - 👯 I’m looking to collaborate on ```nb2 plugins```
 - 🤔 I’m looking for help with```pythonic```
