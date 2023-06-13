@@ -37,6 +37,6 @@ My name is Kaguya/姬辉夜~
 
 ### How is my projects?
 
-![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
-
 <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="300">
+
+![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
