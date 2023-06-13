@@ -38,11 +38,3 @@ My name is Kaguya/姬辉夜~
 ### Profile Visits from 2023/6/13 | I love miku
 
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
-
-### What i m using?
-
-- [x] <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/tools-VScode-green"></a> 
-
-- [x] <a href="https://www.python.org/downloads/release/python-310/"><img src="https://img.shields.io/badge/python-3.10.0-blue"></a> 
-
-- [x] <a href=""><img src="https://img.shields.io/badge/QQ-1435608435-yellow"></a>
