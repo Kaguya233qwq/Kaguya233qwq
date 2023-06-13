@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/about_miku.png?raw=true" width="450">
 
-### Hi there 👋
-My name is Kaguya/姬辉夜~
+<h2><img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Hi ~ My name is Kaguya/姬辉夜~ </h2>
 
 - 🔭 I’m currently working on [Nonebot2](https://v2.nonebot.dev/)
 - 🌱 I’m currently learning PHP，C
