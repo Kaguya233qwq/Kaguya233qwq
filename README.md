@@ -34,10 +34,6 @@ My name is Kaguya/姬辉夜~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguya233qwq)](https://github.com/Cvandia/github-readme-stats)
 
-### how many poeple have watched me?
-
-![Visitor Count](https://profile-counter.glitch.me/Kaguya233qwq/count.svg)
-
 ### What i m using?
 
 - [x] <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/tools-VScode-green"></a> 
