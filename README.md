@@ -36,7 +36,7 @@ My name is Kaguya/姬辉夜~
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
 
 
-<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="200">
+<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="300">
 
 ### How is my projects?
 
