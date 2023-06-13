@@ -35,9 +35,8 @@ My name is Kaguya/姬辉夜~
 
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
 
-
-<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="300">
-
 ### How is my projects?
 
 ![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
+
+<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="300">
