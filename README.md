@@ -34,6 +34,10 @@ My name is Kaguya/姬辉夜~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguya233qwq)](https://github.com/Cvandia/github-readme-stats)
 
+Profile Visits from 2023/6/13 | I love miku
+
+![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
+
 ### What i m using?
 
 - [x] <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/tools-VScode-green"></a> 
