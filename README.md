@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Profile Visits from 2023/6/13 | I love miku <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/05.gif?raw=true" width="50">
+<h3> Profile Visits from 2023/6/13 | I love miku <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/05.gif?raw=true" width="50"></h3>
 
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
 
