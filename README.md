@@ -23,6 +23,7 @@ My name is Kaguya/姬辉夜~
 - 📫 How to reach me: 1435608435@qq.com
 - ⚡ Fun fact: ```Hahahahahahahaha geh~```
 
+<img align='right' src="https://raw.githubusercontent.com/ElainaFanBoy/Blog/main/assert/avt.png" width="415">
 
 ---
 
