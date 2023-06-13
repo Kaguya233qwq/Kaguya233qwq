@@ -25,17 +25,18 @@ My name is Kaguya/姬辉夜~
 
 
 ---
-### how many poeple have watched me?
 
-![Visitor Count](https://profile-counter.glitch.me/Kaguya233qwq/count.svg)
+### How is my projects?
+
+![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
 
 ### What languages I am using?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaguya233qwq)](https://github.com/Cvandia/github-readme-stats)
 
-### How is my projects?
+### how many poeple have watched me?
 
-![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/Kaguya233qwq/count.svg)
 
 ### What i m using?
 
