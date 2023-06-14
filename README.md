@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="300">
 
 ![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1453108359&auto=1&height=66"></iframe>
