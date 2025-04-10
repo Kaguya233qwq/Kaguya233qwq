@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Primary Languages: Python,Go,Java. Other Languages: C#,Rust,TypeScript <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/04.gif?raw=true" width="50">
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Personal Interests: listening music,drawing,playing games,anime,learning languages <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/03.gif?raw=true" width="60">
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> AbaAbabababababa
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> I’m looking for help with```Rust/C#```
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> How to reach me: 1435608435@qq.com
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Fun fact: ```Hahahahahahahaha geh~``` <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/06.gif?raw=true" width="60">
 
