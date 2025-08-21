@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="320">
 
 ![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=typescript,javascript,html,css,astro,GLSL,makefile,shell,cpp,lua)](https://github.com/anuraghazra/github-readme-stats)
