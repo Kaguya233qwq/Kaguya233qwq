@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html,css,astrol,GLSL)](https://github.com/anuraghazra/github-readme-stats)
