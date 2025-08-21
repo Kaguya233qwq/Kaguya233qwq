@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### How is my projects?
 
-<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="320">
+<!-- <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="320"> -->
 
 ![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
