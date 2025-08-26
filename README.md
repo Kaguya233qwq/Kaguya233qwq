@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Primary Languages: Python,Go. Other Languages: TypeScript,Java <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/04.gif?raw=true" width="50">
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Personal Interests: listening music,drawing,playing games,anime,learning languages <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/03.gif?raw=true" width="60">
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> AbaAbabababababa
+- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> This is my [Blog](https://39miku.fun)
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> How to reach me: marisa_qwq@qq.com
 - <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/06.gif?raw=true" width="60">
 
