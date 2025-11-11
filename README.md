@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2><img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/02.gif?raw=true" width="80"> <img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/about_miku.png?raw=true" width="420"> Hi~I'm Kaguya~ </h2>
+<h2><img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/02.gif" width="80"> <img align='right' src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/about_miku.png" width="420"> Hi~I'm Kaguya~ </h2>
 
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Primary Languages: Python,Go. Other Languages: TypeScript,Java <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/04.gif?raw=true" width="50">
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> Personal Interests: listening music,drawing,playing games,anime,learning languages <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/03.gif?raw=true" width="60">
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> This is my [Blog](https://39miku.fun)
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/01.png?raw=true" width="50"> How to reach me: marisa_qwq@qq.com
-- <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/06.gif?raw=true" width="60">
+- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> Primary Languages: Python,Go. Other Languages: TypeScript,Java <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/04.gif" width="50">
+- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> Personal Interests: listening music,drawing,playing games,anime,learning languages <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/03.gif" width="60">
+- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> This is my [Blog](https://39miku.fun)
+- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> How to reach me: marisa_qwq@qq.com
+- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/06.gif" width="60">
 
 ---
 
-<h3> Profile Visits from 2023/6/13 | I love miku <img src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/sprites/05.gif?raw=true" width="50"></h3>
+<h3> Profile Visits from 2023/6/13 | I love miku <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/05.gif" width="50"></h3>
 
 ![visits](https://count.getloli.com/get/@Kaguya233qwq?theme=rule34)
 
@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-<img align='right' src="https://github.com/Kaguya233qwq/Kaguya233qwq/blob/main/mikumiku.gif?raw=true" width="320">
+<img align='right' src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/mikumiku.gif" width="320">
 
 ![Kaguya233qwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight)
