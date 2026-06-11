@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2><img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/02.gif" width="80"> <img align='right' src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/about_miku.png" width="420"> Hi~I'm Kaguya~ </h2>
 
-- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> Primary Languages: Python,Go. Other Languages: TypeScript,Java <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/04.gif" width="50">
+- <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> Primary Languages: Python,Go. Other Languages: JavaScript, Rust <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/04.gif" width="50">
 - <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> Personal Interests: listening music,drawing,playing games,anime,learning languages <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/03.gif" width="60">
 - <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> This is my [Blog](https://39miku.fun)
 - <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> How to reach me: marisa_qwq@qq.com
