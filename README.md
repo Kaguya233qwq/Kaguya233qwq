@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Contribution Stats
 
-<img align='right' src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/mikumiku.gif" width="320">
-
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kaguya233qwq&show_icons=true&theme=tokyonight" alt="Kaguya233qwq's GitHub stats" />
 </p>
+
+<img align='right' src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/mikumiku.gif" width="320">
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kaguya233qwq&layout=compact&theme=tokyonight" alt="Top Langs" />
