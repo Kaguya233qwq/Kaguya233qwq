@@ -20,6 +20,16 @@ Here are some ideas to get you started:
 - <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> This is my [Blog](https://39miku.fun)
 - <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/01.png" width="50"> How to reach me: marisa.2333qwq@gmail.com <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/06.gif" width="60">
 
+## 💭 Engineering Philosophy
+
+Developer Experience (DX) is a feature.
+
+Good APIs should be intuitive.
+Good abstractions should reduce decisions.
+Good frameworks should make the correct way the easiest way.
+
+I enjoy building tools that help developers write less boilerplate and focus more on solving real problems.
+
 ---
 
 <h3> Profile Visits from 2023/6/13 | I love miku <img src="https://raw.githubusercontent.com/Kaguya233qwq/Kaguya233qwq/main/sprites/05.gif" width="50"></h3>
